@@ -19,19 +19,10 @@ website: Your website (eg. https://google.com)(optional)
 darkmode: false
 
 # Social links
-twitter_username: -
 github_username:  bearmanda
-stackoverflow_username: "00000001"
-dribbble_username: -
-facebook_username: -
-flickr_username: -
+stackoverflow_username: -
 instagram_username: -
 linkedin_username: -
-xing_username: -
-pinterest_username: -
-youtube_username: -
-orcid_username: -
-googlescholar_username: -
 
 # Additional icon links
 additional_links:
